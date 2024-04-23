@@ -71,4 +71,5 @@ endmodule
 ![alt text](ex62.png)
 
 **RESULTS**
+
 Thus the program to implement a SR flipflop using verilog and validating their functionality using their functional tables is successfully completed.
